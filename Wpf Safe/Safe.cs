@@ -10,7 +10,7 @@ namespace mySafe
     class Safe
     {
         public int iIntr = 0;
-        public Boolean[,] safeArr; //здесь храним двоичное представление нашего сейа
+        public Boolean[,] safeArr; //здесь храним двоичное представление нашего сейфа
         private int safeSize;
 
         public Safe( int sfSize)
